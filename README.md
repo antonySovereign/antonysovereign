@@ -1,6 +1,10 @@
 # antonysovereign
 
-> golang developer · юфу · english B2
+> golang developer  
+> прикладная информатика · юфу  
+> english — B2
+
+---
 
 ## skills
 
@@ -13,17 +17,35 @@
 ![REST API](https://img.shields.io/badge/REST_API-design%20%7C%20integration-FF6C37?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-caching-DC382D?style=flat&logo=redis)
 
+---
+
 ## projects
 
-- [`auth_service_app`](https://github.com/antonysovereign/auth_service_app) — jwt · postgres · docker
-- [`gorm_crud_api`](https://github.com/antonysovereign/gorm_crud_api) — crud · gorm · pg
-- [`simple_crud_api`](https://github.com/antonysovereign/simple_crud_api) — raw sql · rest
-- [`simple_redis_app`](https://github.com/antonysovereign/simple_redis_app) — cache · redis
+### [`auth_service_app`](https://github.com/antonysovereign/auth_service_app)
+REST API для регистрации и аутентификации пользователей. Хэширование паролей через bcrypt, работа с PostgreSQL через GORM.
+
+### [`gorm_crud_api`](https://github.com/antonysovereign/gorm_crud_api)
+CRUD-сервис для управления задачами с использованием GORM. Поддержка PostgreSQL / SQLite.
+
+### [`simple_crud_api`](https://github.com/antonysovereign/simple_crud_api)
+Минималистичный CRUD API с in-memory хранилищем. Логирование запросов, поиск по названию задачи.
+
+### [`simple_redis_app`](https://github.com/antonysovereign/simple_redis_app)
+Сервис для работы с Redis как in-memory хранилищем. Установка значений с TTL, получение по ключу.
+
+---
 
 ## status
 
 → open for internships / junior positions  
 → удаленка / гибрид
+
+---
+
+## about
+
+Чистый код — это когда ты коммитишь и надеешься, что больше никогда не увидишь этот проект.
+---
 
 ## contacts
 
